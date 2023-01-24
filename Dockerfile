@@ -1,3 +1,5 @@
+FROM ubuntu:18.04
+MAINTAINER Me Just Testing
 
 ENV DEBIAN_FRONTEND noninteractive
 
